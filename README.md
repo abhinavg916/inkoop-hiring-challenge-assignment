@@ -1,1 +1,1 @@
-# shooting-game-inkoop
+# Inkoop Hiring Challenge Assignment
